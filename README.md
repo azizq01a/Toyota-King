@@ -2,7 +2,6 @@
 # 🏎️ GR Cup Telemetry Dashboard
 
 Comprehensive analysis of telemetry data from the GR Cup series using Python and Dash.
-<img width="1366" height="768" alt="Capture d’écran 2025-10-29 031153" src="https://github.com/user-attachments/assets/e4cc2fcd-17f5-4c32-bed9-d53b6e7ad5a2" />
 
 The project provides an interactive dashboard displaying:
 - **Heatmaps** for speed and acceleration
@@ -40,3 +39,4 @@ Ilyass Chekhmane
 Developer & Data Engineer Passionné 🧠
 
 📍 Maroc
+
