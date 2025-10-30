@@ -1,7 +1,9 @@
 ﻿# Toyota-King
 # 🏎️ GR Cup Telemetry Dashboard
 
-Comprehensive analysis of telemetry data from the GR Cup series using Python and Dash.
+Comprehensive a nalysis of telemetry data from the GR Cup series using Python and Dash.
+
+<img width="1366" height="722" alt="Capture d’écran 2025-10-29 161822" src="https://github.com/user-attachments/assets/e4145514-e9c4-4421-8961-870b56034da3" />
 
 The project provides an interactive dashboard displaying:
 - **Heatmaps** for speed and acceleration
@@ -39,4 +41,5 @@ Ilyass Chekhmane
 Developer & Data Engineer Passionné 🧠
 
 📍 Maroc
+
 
